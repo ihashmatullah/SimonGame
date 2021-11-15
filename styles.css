@@ -3,6 +3,12 @@ body {
   background-color: #011F3F;
 }
 
+a {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
